@@ -95,7 +95,7 @@ Repo gathered by **[CodeRankGPT - Solve HackerRank coding problems <ins>during y
 | Day 29 |   Medium   |  30   |                  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and)                  | [solution-bitwise-and.java](https://github.com/Manush54/Java-Hackerrank-Solutions/blob/main/30DaysOfCode/Day29.java) |
 
 
-## 💡 Why should you I use CodeRankGPT? 
+## 💡 Why should you use CodeRankGPT? 
 
 <ins>**A safeguard against your nerves during your coding test.**</ins>
 <br />
